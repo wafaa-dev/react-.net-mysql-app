@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnet_react", "aspnet_react\aspnet_react.csproj", "{4AAAA38A-8119-42A3-94C0-14AAED9585C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{98C22E41-911F-481D-907E-A699E7F34C70}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AAAA38A-8119-42A3-94C0-14AAED9585C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAAA38A-8119-42A3-94C0-14AAED9585C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAAA38A-8119-42A3-94C0-14AAED9585C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAAA38A-8119-42A3-94C0-14AAED9585C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E82E65F-DE42-43FE-B77B-40013F798854}
+	EndGlobalSection
+EndGlobal

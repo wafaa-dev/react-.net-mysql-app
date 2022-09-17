@@ -1,0 +1,66 @@
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/appsettings.json
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/aspnet_react
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/aspnet_react.deps.json
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/aspnet_react.runtimeconfig.json
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/aspnet_react.dll
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/ref/aspnet_react.dll
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/aspnet_react.pdb
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.csproj.AssemblyReference.cache
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.AssemblyInfoInputs.cache
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.AssemblyInfo.cs
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.MvcApplicationPartsAssemblyInfo.cs
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.MvcApplicationPartsAssemblyInfo.cache
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/staticwebassets.build.json
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/staticwebassets.development.json
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/scopedcss/bundle/aspnet_react.styles.css
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.csproj.CopyComplete
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.dll
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/ref/aspnet_react.dll
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.pdb
+/Users/mac/Projects/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.genruntimeconfig.cache
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/MySqlConnector.dll
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/Humanizer.dll
+/Users/mac/Projects/aspnet_react/aspnet_react/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/appsettings.json
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/aspnet_react
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/aspnet_react.deps.json
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/aspnet_react.runtimeconfig.json
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/aspnet_react.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/ref/aspnet_react.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/aspnet_react.pdb
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/Humanizer.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/MySqlConnector.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.csproj.AssemblyReference.cache
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.AssemblyInfoInputs.cache
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.AssemblyInfo.cs
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.MvcApplicationPartsAssemblyInfo.cs
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.MvcApplicationPartsAssemblyInfo.cache
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/staticwebassets.build.json
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/staticwebassets.development.json
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/scopedcss/bundle/aspnet_react.styles.css
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.csproj.CopyComplete
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/ref/aspnet_react.dll
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.pdb
+/Users/mac/Desktop/ASP.NET react/aspnet_react/aspnet_react/obj/Debug/net6.0/aspnet_react.genruntimeconfig.cache
